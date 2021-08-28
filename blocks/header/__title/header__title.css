@@ -1,0 +1,12 @@
+.header__title {
+  z-index: 2;
+  width: 730px;
+  margin: 0 0 0 64px;
+  /*Какой из вариантов будем лучше ? position или margin
+  position: relative;
+  left: 64px;*/
+  font-size: 102px;
+  line-height: 96px;
+  font-weight: bold;
+  color: #000000;
+}
