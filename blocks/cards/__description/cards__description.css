@@ -1,0 +1,7 @@
+.cards__description{
+  margin: 0;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 0 3px 0; /*если не поставить отступ, текст не встает как брифе
+  неправильно строки переносятся.*/
+}
