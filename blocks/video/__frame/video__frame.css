@@ -1,12 +1,13 @@
 .video__iframe {
   list-style: none;
+  border: none;
   line-height: 0;
   /*line-height: 0; убирает маленький отступ снизу*/
   margin-bottom: -50px;
   z-index: 2;
   width: 515px;
   height: 316px;
-
+  overflow: hidden;
 }
 
 .video__iframe:nth-child(odd) {

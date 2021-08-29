@@ -5,8 +5,10 @@
   line-height: 30px;
   display: flex;
   align-items: center;
+  transition: opacity 0.5s linear;
 }
 
 .footer__column-link:hover {
-  color: #2f80ed;
+  /*color: #2f80ed;*/
+  opacity: 0.5;
 }
